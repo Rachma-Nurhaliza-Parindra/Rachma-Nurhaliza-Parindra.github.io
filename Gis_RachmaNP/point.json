@@ -1,0 +1,694 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Singaperbangsa"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30612174792674,
+            -6.323095173849751
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bumi Karawang Baru"
+        },
+        "geometry": {
+          "coordinates": [
+            107.3101315096174,
+            -6.330585664121429
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tangki PDAM"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30251339537284,
+            -6.303877632019095
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMPN 1 Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30086759542479,
+            -6.3010670412273555
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pertamina Teluk Jambe"
+        },
+        "geometry": {
+          "coordinates": [
+            107.31186844495602,
+            -6.329436554561099
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Perum Puri"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30441844886991,
+            -6.334237944816763
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Universitas Buana Perjuangan"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30097232794964,
+            -6.324061497718205
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Grand Mutiara Village"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30347489953192,
+            -6.326734220061425
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "McDonald's"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2961116165784,
+            -6.329274342129139
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Karawang Central Plaza"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29275350920142,
+            -6.327663161133287
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Camat Telukjambe Timur"
+        },
+        "geometry": {
+          "coordinates": [
+            107.31148824057357,
+            -6.337321097300517
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Stasiun Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30017375376457,
+            -6.305250966439715
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RSIA Dr.Djoko Pramono"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30212009490748,
+            -6.30503904505008
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BPBD Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.3036084534748,
+            -6.304771795166843
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gedung BPS Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.3010886707645,
+            -6.302474657552565
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMAN 1 Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30194318089286,
+            -6.300319438763623
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMPN 6 Karawang Barat"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30216969568056,
+            -6.299633864003795
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Kolam Renang Permata Ruby"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29890920211602,
+            -6.299833557087339
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "TechnoMart"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2932429418247,
+            -6.329065918590544
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Festive Walk"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29133868848129,
+            -6.3270732717617335
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Taman Bermain Anak"
+        },
+        "geometry": {
+          "coordinates": [
+            107.288354573795,
+            -6.330214522553916
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMPN 2 Telukjambe Timur"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2833439011938,
+            -6.332183067867007
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Raya Teluk Jambe"
+        },
+        "geometry": {
+          "coordinates": [
+            107.28266995507482,
+            -6.332575509816522
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hotel Novotel Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.27209045864976,
+            -6.337545190265928
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puri KIIC"
+        },
+        "geometry": {
+          "coordinates": [
+            107.28091585960124,
+            -6.3468664103330354
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Sakit Umum Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2931560116482,
+            -6.3206515811993
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RS Bayukarta"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29205963836898,
+            -6.303292605603858
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMK PGRI 2 Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29328456061262,
+            -6.293128322925725
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "STIKES Kharisma Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29176778750411,
+            -6.289935782383537
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Sakit Hermina Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.31209371030968,
+            -6.3082103012862945
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mall Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30685247491431,
+            -6.30900039177159
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RS Mandaya"
+        },
+        "geometry": {
+          "coordinates": [
+            107.27844170433798,
+            -6.3047368669085415
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Starbucks Galuh Mas"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29230265732281,
+            -6.326066054440673
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Sakit Permata Keluarga Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2919575267789,
+            -6.322629783972616
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RS Lira Medika"
+        },
+        "geometry": {
+          "coordinates": [
+            107.32638006901232,
+            -6.3028041618209585
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SLB Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29788675416563,
+            -6.294415433910828
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RS Dewi Sri Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29798988345101,
+            -6.304703982219621
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apotek Niaga"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29763245156579,
+            -6.304430310210421
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas"
+        },
+        "geometry": {
+          "coordinates": [
+            107.31395657954619,
+            -6.336744184455725
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMA 1 Telukjambe"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30538138977579,
+            -6.324409749614773
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apotek Kimia Farma"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29182824527322,
+            -6.320911135259351
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SDN Karawang Kulon"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29260976858399,
+            -6.308674357394608
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alun-Alun Karawang"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29315788024417,
+            -6.310227984694805
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Pos Karawang Kota"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29289367928016,
+            -6.3095412326836
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kantor Telkom"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2932289037642,
+            -6.310967060525442
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alfamart"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29268637095191,
+            -6.309600477822556
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SMPIT Al-Irsyad Al-Islamiyyah"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29105151662736,
+            -6.304514375481816
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Resinda Park Mall"
+        },
+        "geometry": {
+          "coordinates": [
+            107.27820088156125,
+            -6.301507423696421
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rumah Dinas Peruri"
+        },
+        "geometry": {
+          "coordinates": [
+            107.31022563748354,
+            -6.333762285323303
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lapang Cisadane"
+        },
+        "geometry": {
+          "coordinates": [
+            107.31012422786114,
+            -6.322764519286423
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Apotek Kimia Farma"
+        },
+        "geometry": {
+          "coordinates": [
+            107.30257010852904,
+            -6.307600458524163
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Puskesmas Kertabumi"
+        },
+        "geometry": {
+          "coordinates": [
+            107.29211248512809,
+            -6.300203088907111
+          ],
+          "type": "Point"
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "RS Islam"
+        },
+        "geometry": {
+          "coordinates": [
+            107.2836902178492,
+            -6.282112064839936
+          ],
+          "type": "Point"
+        }
+      }
+    ]
+}
