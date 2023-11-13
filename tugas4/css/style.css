@@ -2,7 +2,7 @@
 
 html,
 body {
-  display: flex;
+    display: flex;
     flex-direction: column;
     font-family: Arial, sans-serif;
 }
@@ -75,7 +75,7 @@ body {
 #info-table th, #info-table td {
   border: 1px solid #ccc;
   padding: 8px;
-  text-align: center;
+
 }
 
 #info-table th {
