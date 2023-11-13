@@ -1,4 +1,5 @@
 export let URLGeoJson = "https://us-central1-spheric-entity-401507.cloudfunctions.net/function-8";
+export let urlPostGCF = "https://asia-southeast2-vivid-vent-401501.cloudfunctions.net/test-post";
 export let tableTag="tr";
 export let tableRowClass="content is-small";
 export let tableTemplate=`

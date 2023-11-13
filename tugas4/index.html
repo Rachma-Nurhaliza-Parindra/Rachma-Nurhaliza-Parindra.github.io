@@ -5,14 +5,63 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="./css/style.css" type="text/css"/>
 	<link rel="shortcut icon" type="image/x-icon" href="favicon.ico" />
-    <title>Tugas 3 Sistem Informasi Geografis
+    <title>Sistem Informasi Geografis (GIS)
     </title>
 </head>
 <body>
-    <h1 style="text-align: center;">Geographic Information System</h1>
-    <h2 style="text-align: center;">NPM: 1214056</h2>
-    <h2 style="text-align: center;">Nama : Rachma Nurhaliza Parindra</h2>
+    <style>
+        .rachmaopenlayer{
+          padding: 10px;
+          margin: 10px;
+          border: 1px solid black;
+          border: transparent;
+          width: 200px;
+          background-color: rgb(126, 185, 236);
+          color: white;
+          border-radius: 30px;
+          text-align: center;
+          margin-left: 740px;
+        }
+        .rachmaopenlayer:hover{
+            padding: 10px;
+            margin: 10px;
+            border: 1px solid black;
+            border: transparent;
+            width: 200px;
+            background-color: rgb(255, 138, 20);
+            color: white;
+            border-radius: 30px;
+            text-align: center;
+            box-shadow: 5px 5px 5px 0 rgba(0, 0, 0, 0.5);
+            margin-left: 740px;
+        }
+        .rachmaopenlayer a{
+          color: white;
+          text-decoration: none;
+          text-align: center;
+        }
+
+        button{
+          margin-left: 780px;
+        }
+        #hasil{
+          margin-left: 750px;
+        }
+      </style>
+<!--
+        <div class=".rachmaopenlayer">
+        <a href="../openlayer/index.html">HOME</a>
+      </div>
+-->
+    <div></div>
     <div id='map'></div>
+    <div class="identitas" style="margin-top: 40px;">
+        <h1 style="text-align: center;">Geographic Information System (GIS)</h1>
+        <h2 style="text-align: center;">NPM : 1214056</h2>
+        <h2 style="text-align: center;">Nama : Rachma Nurhaliza Parindra</h2>
+        <h2 style="text-align: center;">Kelas : D4 Teknik Informatika 3C</h2>
+    </div>
+    
     
         <input type="hidden" id="idmarker" name="idmarker" value="">
     
@@ -37,49 +86,52 @@
                 <button id="insertmarkerbutton" type="button">Input</button><br>
             </div>
         </div>
-<div id="info-table">
-    <div class="point-table">
-    <h1>Type Point</h1>
-    <table id="pointTable" border="1">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th >Coordinate</th>
-                <th>Type</th>
-            </tr>
-        </thead>
-        <tbody id="lokasi"></tbody>
-    </table>
-</div>
 
-<div class="polygon-table">
-    <h1>Type Polygon</h1>
-    <table id="polygonTable" border="1">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Coordinate</th>
-                <th>Type</th>
-            </tr>
-        </thead>
-        <tbody id="polygon"></tbody>
-    </table>
-</div>
+        <div id="info-table">
+            <div class="point-table">
+            <h1>Type Point</h1>
+            
+            <table id="pointTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th >Coordinate</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody id="lokasi"></tbody>
+            </table>
+        </div>
 
-<div class="polyline-table">
-    <h1>Type Polyline</h1>
-    <table id="polylineTable" border="1">
-        <thead>
-            <tr>
-                <th>Name</th>
-                <th>Coordinate</th>
-                <th>Type</th>
-            </tr>
-        </thead>
-        <tbody id="line"></tbody>
-    </table>
-</div>
-</div>
+        <div class="polygon-table">
+            <h1>Type Polygon</h1>
+            <table id="polygonTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Coordinate</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody id="polygon"></tbody>
+            </table>
+        </div>
+
+        <div class="polyline-table">
+            <h1>Type Polyline</h1>
+            <table id="polylineTable" border="1">
+                <thead>
+                    <tr>
+                        <th>Name</th>
+                        <th>Coordinate</th>
+                        <th>Type</th>
+                    </tr>
+                </thead>
+                <tbody id="line"></tbody>
+            </table>
+        </div>
+    </div>
+    
 <script src="https://cdn.jsdelivr.net/npm/ol@v8.1.0/dist/ol.js"></script>
 <script type="module" src="../tugas4/js/main.js"></script>
 </body>
